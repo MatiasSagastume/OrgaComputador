@@ -17,7 +17,6 @@ section .data
     cantElementos dq 20
     posActual dw 0
     desplazamiento dw 2
-    posMax dw 19
     msgFinal db "El maximo es: %hi, el minimo es: %hi y el promedio es: %hi",10,0
 section .bss
     maximo resw 1
