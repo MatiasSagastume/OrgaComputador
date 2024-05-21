@@ -3,7 +3,6 @@ extern puts
 
 section .data
 mensaje db  "Organización del Computador"
-prueba db 80
 
 section .text
 main:
