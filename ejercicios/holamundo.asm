@@ -2,7 +2,7 @@ global main
 extern puts
 
 section .data
-mensaje db  "Organización del Computador"
+mensaje db  "Organización del Computador",10,0
 
 section .text
 main:
